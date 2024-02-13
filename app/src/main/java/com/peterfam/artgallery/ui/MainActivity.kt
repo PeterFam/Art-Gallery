@@ -1,4 +1,4 @@
-package com.peterfam.artgallery
+package com.peterfam.artgallery.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
