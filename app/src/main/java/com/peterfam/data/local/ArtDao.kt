@@ -5,7 +5,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.peterfam.data.model.Art
+import com.peterfam.data.local.model.Art
 
 interface ArtDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
