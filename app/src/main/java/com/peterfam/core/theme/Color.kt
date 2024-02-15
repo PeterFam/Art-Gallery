@@ -1,4 +1,4 @@
-package com.peterfam.artgallery.ui.theme
+package com.peterfam.core.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.peterfam.data.model
+package com.peterfam.data.local.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
